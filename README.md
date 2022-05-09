@@ -1,3 +1,23 @@
+# Netflix-clone
+Live Demo: https://netflix-clone-91ed7.web.app/
+
+This project is a simplified front end clone of Netflix. It was created with React and Firebase authentication. It uses The TMDB Api to search for movies and display details. Feel free to contribute!
+
+Tools used :- 
+
+* React
+
+* Axios
+
+* Redux
+
+* Sass (grid & flexbox)
+
+* Media queries (for responsive)
+
+* Firebase (Authentication)
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
