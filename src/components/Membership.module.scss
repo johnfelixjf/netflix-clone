@@ -1,0 +1,52 @@
+.membership {
+    max-width: 815px;
+    margin: auto;
+    text-align: center;
+    padding: 2rem 0 ;
+
+    h4{
+        color: white;
+    }
+  .membership__input {
+    margin: 20px;
+
+    input {
+      padding: 10px;
+      outline-width: 0;
+      height: 40px;
+      width: 70%;
+      border: none;
+      max-width: 600px;
+    }
+
+    .membership__getStarted {
+      padding: 22px 20px;
+      font-size: 1rem;
+      color: white;
+      background-color: #e50914;
+      border: none;
+      font-weight: 600;
+      cursor: pointer;
+    }
+  }
+}
+
+@media only screen and (max-width: 480px) {
+
+  .membership {
+
+  .membership__input {
+
+    input {
+      height: 30px;
+      width: 60%;
+    }
+
+    .membership__getStarted {
+      padding: 20px 14px;
+      font-size: 0.6rem;
+      font-weight: 600;
+    }
+  }
+}
+}
