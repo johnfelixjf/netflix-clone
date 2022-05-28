@@ -1,5 +1,4 @@
 # Netflix-clone
-Live Demo: https://netflix-clone-91ed7.web.app/
 
 This project is a simplified front end clone of Netflix. It was created with React and Firebase authentication. It uses The TMDB Api to search for movies and display details. Feel free to contribute!
 
